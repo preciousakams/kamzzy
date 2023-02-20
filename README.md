@@ -1,5 +1,7 @@
 <h1 align="center">Hi I'm Precious Akams</h1>
-<h3 align="center"> A fullstack developer who wants to make the world a better place </h3>
+<h3 align="center"> I'm a Full-Stack Web Developer with expertise in JavaScript, NodeJS, Ruby, Rails, React, Redux</h3>
+<h3 align="center"> <em> I will make your dream of creating a great product or website a reality sooner than you think.</em> </h3>
+<h3 align="center"> <em> Please contact me for further discussion.</em> </h3>
 <h4 align="center"> Below is a summary of my tech journey</h4>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamzzy&theme=algolia&layout=compact&langs_count=6&count_private=true&show_icons=true)![Kamzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamzzy&theme=algolia&count_private=true&show_icons=true)](https://github.com/kamzzy/README.md)
